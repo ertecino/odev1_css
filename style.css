@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("img/bg.png");
+    background-size: inherit;
+    background-attachment: fixed;
+   
+}
+
+.header {
+    font-size: 24px;
+    color: #a82525;
+    text-align: center;
+}
+
+.nav{
+    width: 880px;
+    background: #ffffff;
+    margin: auto;
+    text-align: center;
+    font-size: 24px;    
+}
+
+.nav a{
+    display: inline-block;
+    margin: 10px;
+    font-size: 25px;
+    text-decoration-color: bisque;
+
+}
+
+.box {
+    width: 800px;
+    background: #8a8787;
+    padding: 40px;
+    margin: auto;
+    text-align: center;    
+}
+
+.box img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.box h2 {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.box p {
+    text-align: center;
+    color: azure;
+}
+
+.box li {
+    display: inline-block;
+    margin: 10px;
+    font-size: large;
+    color: azure;
+}
+
+.contact{
+    width: 800px;
+    background-color: #b69d9d;
+    margin: auto;
+    text-align: center; 
+    font-size: 24px;
+    padding: 40px;
+    
+}
+
+.social{
+    width: 880px;
+    background-color: #b69d9d;
+    margin: auto;
+    list-style: none;
+    text-align: center;   
+}
+
+.social a{
+    color: #ffffff;
+    font-size: 60px;
+    padding: 40px;
+}
+
+.footer{
+    width: 880px;
+    background: #000000;
+    margin: auto;
+    text-align: center;
+    color: #ffffff;
+}
+
+.products{
+    margin: auto;
+    text-align: center;  
+}
+
+.products img{
+    width: 400px;
+    height: 400px;
+    text-align: center;  
+}
